@@ -139,4 +139,8 @@ Failed to start server: listen tcp :8000: bind: Only one usage of each socket ad
 
 since the socket is already in use state.
 
+## flags and options
+See [commonly used flags and options](https://github.com/google/osv-scanner)
 
+## demo video
+referenced at [ref.md](https://github.com/40843245/SBOM-tool-tutorial/blob/main/attachments/tools/OSV%20scanner/demo/demo%20video/ref.md)
